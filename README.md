@@ -1,7 +1,7 @@
 #FlycoDialog-Matser
 
 This is an Android Dialog Library that you can directly use default inner dialog and default animation.
-It has 6 kinds of diaog and many kings of show and dimiss animations inside Library.
+It has 6 kinds of diaog and many kinds of show and dimiss animations inside Library.
 It has good expansibility.If you don not like inner dialog and animation, you can custom them what you like in a sample way.It support API LEVEL 8+.
 
 ##Demo
